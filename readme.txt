@@ -1,7 +1,7 @@
 === Headless Theme ===
 Contributors: DigitalCube Co. Ltd.
 Tested up to: 5.3
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,9 @@ https://wordpress.org/themes/twentytwenty/
 https://wordpress.org/themes/nude/
 
 == Changelog ==
+
+= 0.2 =
+* cleans up. Jan 21, 2020
 
 = 0.1 =
 * Released: Jan 14, 2020
