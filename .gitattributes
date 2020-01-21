@@ -1,0 +1,3 @@
+.git* export-ignore
+*.json export-ignore
+Makefile export-ignore
