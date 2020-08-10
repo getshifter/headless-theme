@@ -1,7 +1,7 @@
 === Headless Theme ===
 Contributors: DigitalCube Co. Ltd.
 Tested up to: 5.3
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,9 @@ https://wordpress.org/themes/twentytwenty/
 https://wordpress.org/themes/nude/
 
 == Changelog ==
+
+= 0.3 =
+* added function to sync menus and locations. https://github.com/getshifter/headless-theme/pull/1
 
 = 0.2 =
 * cleans up. Jan 21, 2020
