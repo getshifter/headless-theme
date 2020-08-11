@@ -1,10 +1,12 @@
 name: syntax
 on:
-  push
+  push:
+    paths:
+    - '**.php'
 
 jobs:
-  release:
-    name: Release
+  syntax:
+    name: SyntaxCheck
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
