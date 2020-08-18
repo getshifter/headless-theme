@@ -10,5 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
       - name: Smiple syntax checker
-        run: php -l *.php
+        run: find . -type d -name vendor -prune -o -type f -name "*.php" -print0 | xargs -n 1 -0 php -l
