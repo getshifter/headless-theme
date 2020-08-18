@@ -21,6 +21,7 @@ https://wordpress.org/themes/nude/
 
 = 0.3 =
 * added function to sync menus and locations. https://github.com/getshifter/headless-theme/pull/1
+* Requires PHP: 7.4
 
 = 0.2 =
 * cleans up. Jan 21, 2020
